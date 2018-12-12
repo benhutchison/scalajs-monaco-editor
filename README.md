@@ -1,4 +1,4 @@
-# Scalajs facade for Monaco Editor
+# Scalajs [facade](./src/main/scala/facade/monacoEditorFacade.scala) for Monaco Editor
 
 The artifact version reflects the Monaco Editor version it's based on.
 
