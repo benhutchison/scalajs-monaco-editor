@@ -63,10 +63,9 @@ in application code that uses Monaco.
 
 Finally, after these steps the facade should compile.
 
-# Testing the Facade
+# Example Using the Facade
 
-TODO write a unit test/demo of Monaco that uses the Scalajs facade to create/configure an editor
-
+See the [example subproject](./example/)
 
 # Credits & Thanks
 
